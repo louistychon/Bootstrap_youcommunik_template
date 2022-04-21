@@ -11130,4 +11130,29 @@ button {
   background-color: #eae3d6 !important;
 }
 
+@media (min-width: 500px) {
+  body {
+    width: 100% !important;
+  }
+  body header {
+    justify-content: center !important;
+  }
+  body header nav row {
+    justify-content: center !important;
+  }
+}
+@media (min-width: 768px) {
+  body {
+    width: 100% !important;
+  }
+  body header nav row {
+    justify-content: center !important;
+  }
+}
+@media (min-width: 1024px) {
+  body {
+    width: 75% !important;
+  }
+}
+
 /*# sourceMappingURL=style.css.map */
